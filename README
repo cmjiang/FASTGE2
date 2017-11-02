@@ -20,10 +20,11 @@ Directories
 
 data ........... Original images and constrained points
 	
-eigensolvers ... Third part eigensolver, refering to https://www.mathworks.com/matlabcentral/fileexchange/48-lobpcg-m
+eigensolvers ... Third part eigensolver [1]
 					 
 myfiles ........ Author's code
 	
-ncutfiles ...... Part of the Ncut code, refering to https://www.cis.upenn.edu/~jshi/software/
+ncutfiles ...... Part of the Ncut code [2] 
 
-
+[1]. https://www.mathworks.com/matlabcentral/fileexchange/48-lobpcg-m
+[2]. https://www.cis.upenn.edu/~jshi/software/
